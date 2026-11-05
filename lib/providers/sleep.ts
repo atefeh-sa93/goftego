@@ -5,8 +5,6 @@
  */
 
 /**
- * TODO(you): implement this so `pnpm test sleep` passes.
- *
  * Rules:
  * 1. Return a Promise that resolves (with no value) after `ms` milliseconds.
  * 2. If `signal` is already aborted, reject right away with `signal.reason`.
@@ -25,5 +23,23 @@
  * checks for with isAbortError().
  */
 export function sleep(ms: number, signal: AbortSignal): Promise<void> {
-  throw new Error(`sleep is not implemented yet (${ms}ms, aborted: ${signal.aborted})`);
+  return new Promise((resolve, reject) => {
+    if (signal.aborted) {
+      reject(signal.reason);
+      return;
+    }
+
+    const timer = setTimeout(() => {
+      resolve();
+      signal.removeEventListener("abort", onAbort);
+    }, ms);
+    
+    const onAbort = () => {
+      clearTimeout(timer);
+      reject(signal.reason);
+    }
+
+    signal.addEventListener('abort', onAbort, { once: true });
+
+  })
 }
