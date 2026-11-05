@@ -58,6 +58,7 @@ export async function readSSEStream(
   };
   signal?.addEventListener("abort", onAbort, { once: true });
 
+  let finished = false;
   try {
     signal?.throwIfAborted();
     for (;;) {
@@ -68,8 +69,11 @@ export async function readSSEStream(
     }
     parser.feed(decoder.decode());
     parser.end();
+    finished = true;
   } finally {
     signal?.removeEventListener("abort", onAbort);
+    // If onEvent threw, close the connection instead of leaving it open.
+    if (!finished) reader.cancel().catch(() => {});
     reader.releaseLock();
   }
 }
