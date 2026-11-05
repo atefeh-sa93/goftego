@@ -30,8 +30,6 @@ export function isBusy(status: ChatStatus): boolean {
 }
 
 /**
- * TODO(you): implement this so `pnpm test chat-status` passes.
- *
  * Returns the status after `event`, or `null` when the event is not allowed
  * in that status (the store then ignores it).
  *
@@ -47,5 +45,26 @@ export function isBusy(status: ChatStatus): boolean {
  * Tip: isBusy() above already answers "thinking or streaming?".
  */
 export function nextStatus(status: ChatStatus, event: ChatStatusEvent): ChatStatus | null {
-  throw new Error(`nextStatus is not implemented yet (${status} + ${event})`);
+  switch (event) {
+    case "send" :
+      return status === "idle" || status === "done" || status === "error" || status === "aborted"
+        ? "thinking"
+        : null;
+    case "token" :
+      return isBusy(status)
+        ? "streaming"
+        : null;
+    case "done" :
+      return isBusy(status)
+        ? "done"
+        : null;
+    case "error": 
+      return isBusy(status)
+        ? "error"
+        : null;
+    case "stop":
+      return isBusy(status)
+        ? "aborted"
+        : null;
+  }
 }
