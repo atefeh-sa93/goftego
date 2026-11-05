@@ -4,7 +4,7 @@
  * moves the status only through nextStatus(), so impossible transitions
  * (a late token after done, a second send while busy) are ignored.
  */
-import { createStore, useStore } from "zustand";
+import { createStore } from "zustand";
 import type { ChatStreamEvent } from "@/lib/chat/protocol";
 import { isAbortError, SSEHttpError, streamSSE } from "@/lib/sse/client";
 import { type ChatStatus, type ChatStatusEvent, isBusy, nextStatus } from "./chat-status";
@@ -163,9 +163,5 @@ export function createChatStore({
 
 export type ChatStore = ReturnType<typeof createChatStore>;
 
+/** The app's one store. Components reach it through ChatStoreProvider. */
 export const chatStore = createChatStore();
-
-/** React hook: `const status = useChatStore((s) => s.status)`. */
-export function useChatStore<T>(selector: (state: ChatState) => T): T {
-  return useStore(chatStore, selector);
-}

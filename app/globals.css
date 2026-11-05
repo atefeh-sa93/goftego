@@ -7,7 +7,13 @@
   --foreground: #17181a;
   --muted: #5b5e66;
   --border: #e4e4df;
+  --border-strong: #d6d6d0;
   --accent: #0f766e;
+  --accent-soft: #eaf5f3;
+  --accent-strong: #0b5a54;
+  --danger-soft: #fff5f2;
+  --danger-border: #f2c7bb;
+  --danger: #7a2812;
 }
 
 @theme inline {
@@ -16,9 +22,22 @@
   --color-foreground: var(--foreground);
   --color-muted: var(--muted);
   --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
   --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-strong: var(--accent-strong);
+  --color-danger-soft: var(--danger-soft);
+  --color-danger-border: var(--danger-border);
+  --color-danger: var(--danger);
   --font-sans: var(--font-vazirmatn);
   --font-mono: var(--font-jetbrains-mono);
+  --animate-blink: blink 1s step-end infinite;
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
 }
 
 body {
