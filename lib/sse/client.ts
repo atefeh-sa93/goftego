@@ -79,5 +79,7 @@ export async function readSSEStream(
 }
 
 export function isAbortError(error: unknown): boolean {
-  return error instanceof DOMException && error.name === "AbortError";
+  // Checks the name, not `instanceof DOMException`: environments such as jsdom
+  // have their own DOMException class, so instanceof can miss a real abort.
+  return typeof error === "object" && error !== null && (error as { name?: unknown }).name === "AbortError";
 }

@@ -19,7 +19,6 @@ export interface ComposerKey {
 export type ComposerKeyAction = "send" | "none";
 
 /**
-
  * Rules:
  * - Enter                    → "send"
  * - Shift+Enter              → "none" (the textarea adds a new line by itself)
