@@ -1,0 +1,708 @@
+event: token
+data: {"text":"در"}
+
+event: token
+data: {"text":" JavaScript"}
+
+event: token
+data: {"text":"،"}
+
+event: token
+data: {"text":" let"}
+
+event: token
+data: {"text":" و"}
+
+event: token
+data: {"text":" const"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"صط"}
+
+event: token
+data: {"text":"لاح"}
+
+event: token
+data: {"text":"ات"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" بر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"عر"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ف"}
+
+event: token
+data: {"text":" مت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" ه"}
+
+event: token
+data: {"text":"ست"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"فا"}
+
+event: token
+data: {"text":"وت"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ن"}
+
+event: token
+data: {"text":"ها"}
+
+event: token
+data: {"text":" وجود"}
+
+event: token
+data: {"text":" د"}
+
+event: token
+data: {"text":"ارد"}
+
+event: token
+data: {"text":":\n\n"}
+
+event: token
+data: {"text":"```"}
+
+event: token
+data: {"text":"javascript"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"//"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"عر"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ف"}
+
+event: token
+data: {"text":" با"}
+
+event: token
+data: {"text":" let"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"let"}
+
+event: token
+data: {"text":" counter"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"1"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":";"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":" //"}
+
+event: token
+data: {"text":" مت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" let"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"تو"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"counter"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"2"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":";\n"}
+
+event: token
+data: {"text":"console"}
+
+event: token
+data: {"text":".log"}
+
+event: token
+data: {"text":"(counter"}
+
+event: token
+data: {"text":");"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":" //"}
+
+event: token
+data: {"text":" خ"}
+
+event: token
+data: {"text":"رو"}
+
+event: token
+data: {"text":"ج"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":":"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"2"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":"\n\n"}
+
+event: token
+data: {"text":"//"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"عر"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ف"}
+
+event: token
+data: {"text":" با"}
+
+event: token
+data: {"text":" const"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"const"}
+
+event: token
+data: {"text":" MAX"}
+
+event: token
+data: {"text":"_VALUE"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"1"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":";"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":" //"}
+
+event: token
+data: {"text":" مت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" const"}
+
+event: token
+data: {"text":" ث"}
+
+event: token
+data: {"text":"ابت"}
+
+event: token
+data: {"text":" است"}
+
+event: token
+data: {"text":"،"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"تو"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" ن"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"//"}
+
+event: token
+data: {"text":" MAX"}
+
+event: token
+data: {"text":"_VALUE"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"5"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":";"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":" //"}
+
+event: token
+data: {"text":" خط"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ن"}
+
+event: token
+data: {"text":" است"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"console"}
+
+event: token
+data: {"text":".log"}
+
+event: token
+data: {"text":"(MAX"}
+
+event: token
+data: {"text":"_VALUE"}
+
+event: token
+data: {"text":");"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":" //"}
+
+event: token
+data: {"text":" خ"}
+
+event: token
+data: {"text":"رو"}
+
+event: token
+data: {"text":"ج"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":":"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"1"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"``"}
+
+event: token
+data: {"text":"`\n\n"}
+
+event: token
+data: {"text":"با"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"وجه"}
+
+event: token
+data: {"text":" به"}
+
+event: token
+data: {"text":" ن"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ات"}
+
+event: token
+data: {"text":" بال"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":"،"}
+
+event: token
+data: {"text":" let"}
+
+event: token
+data: {"text":" مت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"تو"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":"،"}
+
+event: token
+data: {"text":" در"}
+
+event: token
+data: {"text":" حال"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" const"}
+
+event: token
+data: {"text":" مت"}
+
+event: token
+data: {"text":"غ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ث"}
+
+event: token
+data: {"text":"ابت"}
+
+event: token
+data: {"text":" با"}
+
+event: token
+data: {"text":"شد"}
+
+event: token
+data: {"text":"."}
+
+event: done
+data: {"finishReason":"stop"}
+

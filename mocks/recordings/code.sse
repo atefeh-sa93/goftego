@@ -1,0 +1,1170 @@
+event: token
+data: {"text":"بر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" حل"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"سئ"}
+
+event: token
+data: {"text":"له"}
+
+event: token
+data: {"text":"،"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"تو"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"اب"}
+
+event: token
+data: {"text":"ع"}
+
+event: token
+data: {"text":" ن"}
+
+event: token
+data: {"text":"ام"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" در"}
+
+event: token
+data: {"text":" TypeScript"}
+
+event: token
+data: {"text":" بن"}
+
+event: token
+data: {"text":"و"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"س"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"عداد"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" و"}
+
+event: token
+data: {"text":" س"}
+
+event: token
+data: {"text":"پ"}
+
+event: token
+data: {"text":"س"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" پ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"دا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"تن"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" ف"}
+
+event: token
+data: {"text":"ار"}
+
+event: token
+data: {"text":"س"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" بر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"وض"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ح"}
+
+event: token
+data: {"text":" د"}
+
+event: token
+data: {"text":"هد"}
+
+event: token
+data: {"text":"."}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"اب"}
+
+event: token
+data: {"text":"ع"}
+
+event: token
+data: {"text":" به"}
+
+event: token
+data: {"text":" ش"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ل"}
+
+event: token
+data: {"text":" ز"}
+
+event: token
+data: {"text":"یر"}
+
+event: token
+data: {"text":" خ"}
+
+event: token
+data: {"text":"وا"}
+
+event: token
+data: {"text":"هد"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"ود"}
+
+event: token
+data: {"text":":\n\n"}
+
+event: token
+data: {"text":"```"}
+
+event: token
+data: {"text":"typescript"}
+
+event: token
+data: {"text":"\n"}
+
+event: token
+data: {"text":"function"}
+
+event: token
+data: {"text":" calculate"}
+
+event: token
+data: {"text":"Mean"}
+
+event: token
+data: {"text":"(numbers"}
+
+event: token
+data: {"text":":"}
+
+event: token
+data: {"text":" number"}
+
+event: token
+data: {"text":"[]):"}
+
+event: token
+data: {"text":" string"}
+
+event: token
+data: {"text":" {\n"}
+
+event: token
+data: {"text":"   "}
+
+event: token
+data: {"text":" const"}
+
+event: token
+data: {"text":" mean"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" numbers"}
+
+event: token
+data: {"text":".reduce"}
+
+event: token
+data: {"text":"(("}
+
+event: token
+data: {"text":"acc"}
+
+event: token
+data: {"text":","}
+
+event: token
+data: {"text":" val"}
+
+event: token
+data: {"text":")"}
+
+event: token
+data: {"text":" =>"}
+
+event: token
+data: {"text":" acc"}
+
+event: token
+data: {"text":" +"}
+
+event: token
+data: {"text":" val"}
+
+event: token
+data: {"text":","}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":")"}
+
+event: token
+data: {"text":" /"}
+
+event: token
+data: {"text":" numbers"}
+
+event: token
+data: {"text":".length"}
+
+event: token
+data: {"text":";\n"}
+
+event: token
+data: {"text":"   "}
+
+event: token
+data: {"text":" return"}
+
+event: token
+data: {"text":" `"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"عداد"}
+
+event: token
+data: {"text":" در"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ="}
+
+event: token
+data: {"text":" ${"}
+
+event: token
+data: {"text":"mean"}
+
+event: token
+data: {"text":".toFixed"}
+
+event: token
+data: {"text":"("}
+
+event: token
+data: {"text":"2"}
+
+event: token
+data: {"text":")},"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" به"}
+
+event: token
+data: {"text":" د"}
+
+event: token
+data: {"text":"ست"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":"ده"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":" ن"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"خ"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"عداد"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"جام"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":"."}
+
+event: token
+data: {"text":" `;\n"}
+
+event: token
+data: {"text":"}\n"}
+
+event: token
+data: {"text":"``"}
+
+event: token
+data: {"text":"`\n\n"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ن"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"اب"}
+
+event: token
+data: {"text":"ع"}
+
+event: token
+data: {"text":" `"}
+
+event: token
+data: {"text":"calculate"}
+
+event: token
+data: {"text":"Mean"}
+
+event: token
+data: {"text":"`"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"چ"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":" خط"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"ضم"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":":\n"}
+
+event: token
+data: {"text":"1"}
+
+event: token
+data: {"text":"."}
+
+event: token
+data: {"text":" `"}
+
+event: token
+data: {"text":"numbers"}
+
+event: token
+data: {"text":".reduce"}
+
+event: token
+data: {"text":"(("}
+
+event: token
+data: {"text":"acc"}
+
+event: token
+data: {"text":","}
+
+event: token
+data: {"text":" val"}
+
+event: token
+data: {"text":")"}
+
+event: token
+data: {"text":" =>"}
+
+event: token
+data: {"text":" acc"}
+
+event: token
+data: {"text":" +"}
+
+event: token
+data: {"text":" val"}
+
+event: token
+data: {"text":","}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"0"}
+
+event: token
+data: {"text":")"}
+
+event: token
+data: {"text":"`:"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"عداد"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" مح"}
+
+event: token
+data: {"text":"اسب"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":".\n"}
+
+event: token
+data: {"text":"2"}
+
+event: token
+data: {"text":"."}
+
+event: token
+data: {"text":" `"}
+
+event: token
+data: {"text":"numbers"}
+
+event: token
+data: {"text":".length"}
+
+event: token
+data: {"text":"`:"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ع"}
+
+event: token
+data: {"text":"ض"}
+
+event: token
+data: {"text":"و"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" ع"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":"دي"}
+
+event: token
+data: {"text":" ک"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"تو"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":" به"}
+
+event: token
+data: {"text":" ط"}
+
+event: token
+data: {"text":"ور"}
+
+event: token
+data: {"text":" مست"}
+
+event: token
+data: {"text":"ق"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"م"}
+
+event: token
+data: {"text":" به"}
+
+event: token
+data: {"text":" ط"}
+
+event: token
+data: {"text":"ول"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ضاف"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ش"}
+
+event: token
+data: {"text":"ود"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" بر"}
+
+event: token
+data: {"text":"رس"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":"ند"}
+
+event: token
+data: {"text":".\n"}
+
+event: token
+data: {"text":"3"}
+
+event: token
+data: {"text":"."}
+
+event: token
+data: {"text":" س"}
+
+event: token
+data: {"text":"پ"}
+
+event: token
+data: {"text":"س"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"اب"}
+
+event: token
+data: {"text":"ع"}
+
+event: token
+data: {"text":" "}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ک"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"تن"}
+
+event: token
+data: {"text":" پ"}
+
+event: token
+data: {"text":"ر"}
+
+event: token
+data: {"text":"دا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"تن"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" ف"}
+
+event: token
+data: {"text":"ار"}
+
+event: token
+data: {"text":"س"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":" بر"}
+
+event: token
+data: {"text":"ای"}
+
+event: token
+data: {"text":" ت"}
+
+event: token
+data: {"text":"وض"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ح"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ر"}
+
+event: token
+data: {"text":"ا"}
+
+event: token
+data: {"text":" با"}
+
+event: token
+data: {"text":" است"}
+
+event: token
+data: {"text":"فاد"}
+
+event: token
+data: {"text":"ه"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ز"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" ا"}
+
+event: token
+data: {"text":"عداد"}
+
+event: token
+data: {"text":" و"}
+
+event: token
+data: {"text":" م"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"ین"}
+
+event: token
+data: {"text":" آ"}
+
+event: token
+data: {"text":"ن"}
+
+event: token
+data: {"text":" ب"}
+
+event: token
+data: {"text":"رم"}
+
+event: token
+data: {"text":"ی"}
+
+event: token
+data: {"text":"‌"}
+
+event: token
+data: {"text":"گ"}
+
+event: token
+data: {"text":"رد"}
+
+event: token
+data: {"text":"ان"}
+
+event: token
+data: {"text":"د"}
+
+event: token
+data: {"text":"."}
+
+event: done
+data: {"finishReason":"stop"}
+
