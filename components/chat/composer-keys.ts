@@ -19,8 +19,7 @@ export interface ComposerKey {
 export type ComposerKeyAction = "send" | "none";
 
 /**
- * TODO(you): implement this so `pnpm test composer-keys` passes.
- *
+
  * Rules:
  * - Enter                    → "send"
  * - Shift+Enter              → "none" (the textarea adds a new line by itself)
@@ -28,5 +27,8 @@ export type ComposerKeyAction = "send" | "none";
  * - any other key            → "none"
  */
 export function composerKeyAction(event: ComposerKey): ComposerKeyAction {
-  throw new Error(`composerKeyAction is not implemented yet (${event.key})`);
+  if(event.key === "Enter" && !event.shiftKey && !event.isComposing) {
+    return "send";
+  }
+  return "none";
 }
