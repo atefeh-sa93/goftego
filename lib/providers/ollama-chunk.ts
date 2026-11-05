@@ -20,8 +20,6 @@ export type OllamaChunk =
   | { type: "skip" };
 
 /**
- * TODO(you): implement this so `pnpm test ollama-chunk` passes.
- *
  * Rules, in order:
  * 1. data === "[DONE]"                     → { type: "end" }
  * 2. Otherwise data is JSON. Look at choices[0].
@@ -34,5 +32,21 @@ export type OllamaChunk =
  * (`?.` helps), because TypeScript can't check what the network sends.
  */
 export function parseOllamaChunk(data: string): OllamaChunk {
-  throw new Error(`parseOllamaChunk is not implemented yet (got ${data.length} chars)`);
+  if (data === "[DONE]") {
+    return {type: "end"};
+  }
+
+  const json: unknown = JSON.parse(data);
+  const choice = (json as { choices?: { delta?: { content?: unknown }; finish_reason?: unknown }[] })?.choices?.[0];
+
+  if(typeof choice !== "object" || choice === null) {
+    return {type: "skip"};
+  }
+  if(typeof choice?.delta?.content === "string" && choice.delta.content.length > 0) {
+    return {type: "token", text: choice.delta.content};
+  }
+  if (typeof choice?.finish_reason === "string") {
+    return {type: "finish", reason: choice.finish_reason};
+  }
+  return {type: "skip"};
 }

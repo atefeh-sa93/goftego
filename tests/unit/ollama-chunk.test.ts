@@ -41,6 +41,10 @@ describe("parseOllamaChunk", () => {
     expect(parseOllamaChunk('{"object":"ping"}')).toEqual({ type: "skip" });
   });
 
+  it("5. JSON null is skipped instead of crashing", () => {
+    expect(parseOllamaChunk("null")).toEqual({ type: "skip" });
+  });
+
   it("6. invalid JSON throws", () => {
     expect(() => parseOllamaChunk("{not json")).toThrow();
   });
